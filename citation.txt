@@ -1,0 +1,8 @@
+@inproceedings{REPO344,
+    author = "Escontrela, Alejandro and Peng, Xue Bin and Yu, Wenhao and Zhang, Tingnan and Iscen, Atil and Goldberg, Ken and Abbeel, Pieter",
+    booktitle = "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    organization = "IEEE",
+    pages = "25--32",
+    title = "{Adversarial Motion Priors Make Good Substitutes for Complex Reward Functions}",
+    year = "2022"
+}
